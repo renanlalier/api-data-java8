@@ -3,6 +3,13 @@ package br.com.apidata.main;
 import java.time.Duration;
 import java.time.LocalTime;
 
+/**
+ * 
+ * Classe responsável por exemplificar o calculo de intervalo de horas com a API Java 8
+ * @author Renan Lalier
+ * @since 26/07/2016
+ *
+ */
 public class CalcularIntervaloHora {
 	
 	public static void main(String[] args) {

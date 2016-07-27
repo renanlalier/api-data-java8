@@ -12,7 +12,7 @@ import java.time.temporal.ChronoUnit;
 
 /**
  * 
- * Classe responsável por calcular intervalo de data
+ * Classe responsável por exemplificar o calculo de intervalo de data com a API Java 8
  * @author Renan Lalier
  * @since 26/07/2016
  *
